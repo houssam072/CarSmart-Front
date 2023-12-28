@@ -1,0 +1,30 @@
+
+.form-auth{
+    background:url('../../../public/img_1.jpg');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: left;
+    margin-top: 12.5vh;
+    margin-bottom: 12.5vh;
+    position: absolute;
+    width: 60%;
+    border: none;
+    border-radius: 5%;
+    box-shadow: 0 10px 50px -10px rgba(0, 0, 0, 0.9);
+    
+
+}
+.form-auth form{
+    width: 50%;
+    padding: 5%;
+    margin-left:50% ;
+    
+
+}
+
+.form-auth form span, h1{
+    color: blue;
+}
+.pd-l{
+    padding-left: 5.5%;
+}
